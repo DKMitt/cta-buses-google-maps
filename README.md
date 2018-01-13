@@ -1,2 +1,5 @@
-# cta-buses-google-maps
-To create an app to track the Chicago Transit Authority (CTA) bus locations on a Google Map
+#Chicago CTA Bus Tracker
+
+To create an app to display the Chicago Transit Authority (CTA) bus locations on a Google Map.
+
+
