@@ -24,7 +24,7 @@ __Project Status - Completed: 01/15/2018__
 ### Description
 To create an app to display the Chicago Transit Authority (CTA) bus locations on a Google Map.
 
-![Chicago CTA Bus Tracker Exercise](https://github.com/DKMitt/reactjs16/blob/master/public/cctabt.gif)
+![Chicago CTA Bus Tracker Exercise](https://github.com/DKMitt/cta-buses-google-maps/blob/master/assets/img/ccbt.gif)
 
 ----
 
@@ -57,7 +57,7 @@ How to use this App:
 2. Explore the markers added to the Google Map showing the bus locations for that route.
 3. Click the route name overlay to refresh the bus locations.
 
-   ##### [Demo - Click Here](http://www.dkmitt.com/)
+   ##### [Demo - Click Here](http://www.dkmitt.com/mycoding/cta-buses-google-maps/)
 
 
 ### File and Directory Structure
@@ -65,14 +65,17 @@ How to use this App:
 ```
 .
 ├── .gitignore
-│
+├── assets
+│    ├── css
+|    |   └──  style.css
+│    ├── img
+|    |   └──  ccbt.gif
+│    └── js
+|        └──  bustracker.js
 ├── index.hmtl
 │
-├── README.md
-│
-├── style.css
-│
-└──             
+└── README.md
+
 ```
 ----
 
