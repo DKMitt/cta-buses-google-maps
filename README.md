@@ -1,6 +1,6 @@
 # Chicago CTA Bus Tracker
 
-To create an app to display the Chicago Transit Authority (CTA) bus locations on a Google Map.
+An app to display the Chicago Transit Authority (CTA) bus locations around the Chicago area on a Google Map. By Clicking on a Bus Route markers will be added added to the Google Map showing the bus locations for that route, and by clicking again on the route name you can refresh the bus locations as they buses move around the route.
 
 
 
@@ -22,7 +22,7 @@ __Project Status - Completed: 01/15/2018__
 
 
 ### Description
-To create an app to display the Chicago Transit Authority (CTA) bus locations on a Google Map.
+An app to display the Chicago Transit Authority (CTA) bus locations around the Chicago area on a Google Map. By Clicking on a Bus Route markers will be added added to the Google Map showing the bus locations for that route, and by clicking again on the route name you can refresh the bus locations as they buses move around the route.
 
 ![Chicago CTA Bus Tracker Exercise](https://github.com/DKMitt/cta-buses-google-maps/blob/master/assets/img/ccbt.gif)
 
@@ -30,9 +30,10 @@ To create an app to display the Chicago Transit Authority (CTA) bus locations on
 
 
 ### What I Learned From The Exercise
-- To use fetch to request data.
-- Create a custom element that wraps a google map.
-- Add markers to the google map.
+- To work with the Google API to fetch requested data.
+- Create a custom element that wraps a Google map.
+- Add markers to the Google map.
+- To become familiar with CanJS.
 
 ----
 
@@ -55,7 +56,7 @@ How to use this App:
 
 1. Click a Bus Route.
 2. Explore the markers added to the Google Map showing the bus locations for that route.
-3. Click the route name overlay to refresh the bus locations.
+3. Click the route name buttons to refresh the buses current locations.
 
    ##### [Demo - Click Here](http://www.dkmitt.com/mycoding/cta-buses-google-maps/)
 
@@ -64,26 +65,35 @@ How to use this App:
 
 ```
 .
-├── .gitignore
 ├── assets
-│    ├── css
-|    |   └──  style.css
-│    ├── img
-|    |   └──  ccbt.gif
-│    └── js
-|        └──  bustracker.js
-├── index.hmtl
+│   │
+│   ├── css
+│   │   │
+│   │   └── style.css
+│   │
+│   ├── img
+│   │   │
+│   │   └── ccbt.gif
+│   │
+│   └── js
+│       │
+│       └── bustracker.js
+│ 
+├── .gitignore
 │
-└── README.md
-
+├── index.html
+│
+└── README.md     
+       
 ```
+
 ----
 
 
 ### Revision History 
 
-Description of revisions made - __Completed: 01/14/2018__
+Description of revisions - __Completed: 01/15/2018__
 
-  - [x] Dev - file and directory structure creation  - 01/14/2018
+  - [x] Dev - file and directory structure creation  - 01/13/2018
   - [x] Dev - project completion  - 01/15/2018
 
