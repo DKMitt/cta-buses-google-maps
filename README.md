@@ -1,6 +1,6 @@
 # Chicago CTA Bus Tracker
 
-An app to display the Chicago Transit Authority (CTA) bus locations around the Chicago area on a Google Map. By Clicking on a Bus Route markers will be added added to the Google Map showing the bus locations for that route, and by clicking again on the route name you can refresh the bus locations as they buses move around the route.
+An app to display the Chicago Transit Authority (CTA) bus locations around the Chicago area on a Google Map. By Clicking on a Bus Route markers will be added to the Google Map showing the bus locations for that route, and by clicking again on the route name you can refresh the bus locations as they buses move around the route.
 
 
 
@@ -22,7 +22,7 @@ __Project Status - Completed: 01/15/2018__
 
 
 ### Description
-An app to display the Chicago Transit Authority (CTA) bus locations around the Chicago area on a Google Map. By Clicking on a Bus Route markers will be added added to the Google Map showing the bus locations for that route, and by clicking again on the route name you can refresh the bus locations as they buses move around the route.
+An app to display the Chicago Transit Authority (CTA) bus locations around the Chicago area on a Google Map. By Clicking on a Bus Route markers will be added to the Google Map showing the bus locations for that route, and by clicking again on the route name you can refresh the bus locations as they buses move around the route.
 
 ![Chicago CTA Bus Tracker Exercise](https://github.com/DKMitt/cta-buses-google-maps/blob/master/assets/img/ccbt.gif)
 
